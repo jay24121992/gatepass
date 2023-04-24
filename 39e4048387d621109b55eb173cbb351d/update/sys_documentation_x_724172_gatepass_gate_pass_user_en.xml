@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Gate Pass12345" language="en" table="x_724172_gatepass_gate_pass">
+    <sys_documentation element="user" label="USER" language="en" table="x_724172_gatepass_gate_pass">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>user</element>
             <help/>
             <hint/>
-            <label>Gate Pass12345</label>
+            <label>USER</label>
             <language>en</language>
             <name>x_724172_gatepass_gate_pass</name>
-            <plural>Gate Pass12345s</plural>
+            <plural>USERs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-23 16:31:39</sys_created_on>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_name>Gate Pass12345</sys_name>
+            <sys_created_on>2023-04-24 01:08:58</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>USER</sys_name>
             <sys_package display_value="gatepass" source="x_724172_gatepass">39e4048387d621109b55eb173cbb351d</sys_package>
             <sys_policy/>
             <sys_scope display_value="gatepass">39e4048387d621109b55eb173cbb351d</sys_scope>
-            <sys_update_name>sys_documentation_x_724172_gatepass_gate_pass__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_724172_gatepass_gate_pass_user_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-24 01:08:31</sys_updated_on>
+            <sys_updated_on>2023-04-24 01:08:58</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
