@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 16:31:43</sys_created_on>
+        <sys_id>91550c0787d621109b55eb173cbb355e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_724172_gatepass_gate_pass.x_724172_gatepass.gate admin</sys_name>
+        <sys_package display_value="gatepass" source="x_724172_gatepass">39e4048387d621109b55eb173cbb351d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="gatepass">39e4048387d621109b55eb173cbb351d</sys_scope>
+        <sys_security_acl display_value="x_724172_gatepass_gate_pass">d9550c0787d621109b55eb173cbb355b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_91550c0787d621109b55eb173cbb355e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-23 16:31:43</sys_updated_on>
+        <sys_user_role display_value="x_724172_gatepass.gate admin" name="x_724172_gatepass.gate admin">b4058cc387d621109b55eb173cbb35ee</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

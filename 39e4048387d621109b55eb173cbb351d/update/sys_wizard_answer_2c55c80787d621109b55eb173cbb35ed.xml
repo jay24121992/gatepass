@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Gate Pass</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Gate Pass</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">c4598f86c51021108c8b506e733c4c9f</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 16:31:40</sys_created_on>
+        <sys_id>2c55c80787d621109b55eb173cbb35ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gate Pass</sys_name>
+        <sys_package display_value="gatepass" source="x_724172_gatepass">39e4048387d621109b55eb173cbb351d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="gatepass">39e4048387d621109b55eb173cbb351d</sys_scope>
+        <sys_update_name>sys_wizard_answer_2c55c80787d621109b55eb173cbb35ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-23 16:31:40</sys_updated_on>
+        <table/>
+        <target_url>x_724172_gatepass_gate_pass.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
