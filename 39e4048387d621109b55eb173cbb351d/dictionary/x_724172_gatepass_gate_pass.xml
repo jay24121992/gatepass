@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="9455c80787d621109b55eb173cbb35bd" extends="task" label="Gate Pass" max_length="40" name="x_724172_gatepass_gate_pass" type="collection">
+    <element db_object_id="9455c80787d621109b55eb173cbb35bd" extends="task" label="Gate Pass12345" max_length="40" name="x_724172_gatepass_gate_pass" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Gate Pass" max_length="40" name="gate_pass" type="string"/>
+        <element label="USER" max_length="32" name="user" reference="sys_user" type="reference"/>
     </element>
 </database>
